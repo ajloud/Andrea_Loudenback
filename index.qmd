@@ -25,7 +25,3 @@ Education
 Research
 
 Publications
-
-```{r}
-1 + 1
-```
