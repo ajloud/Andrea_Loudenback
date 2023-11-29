@@ -1,6 +1,6 @@
 ---
 title: "Andrea Loudenback"
-image: websitepicture.png
+image: websiteCallie.png
 about: 
   template: trestles
   image-shape: rounded
