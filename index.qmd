@@ -18,9 +18,13 @@ about:
       href: mailto:andrea.loudenback@colostate.edu
 ---
 
-This is a Quarto website.
+About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Education
+
+Research
+
+Publications
 
 ```{r}
 1 + 1
