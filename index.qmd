@@ -1,6 +1,6 @@
 ---
 title: "Andrea Loudenback"
-image: websiteCallie.png
+image: DSC08235.jpg
 about: 
   template: trestles
   image-shape: rounded
@@ -33,3 +33,9 @@ Research
 My work studies nutrient flows from food production systems starting at the animal level. I use process based modeling software in conjunction with field experiments to quantify best management practices in an effort to reduce the environmental impacts from the agriculture sector.
 
 Publications
+
+Conference Posters
+
+![Western Section American Society of Animal Science - presented at the 2021 annual meeting](WSASAS poster_FINAL.png)
+
+![American Dairy Science Association - presented at the 2023 annual meeting](ADSA Poster_Loudenback.png)
