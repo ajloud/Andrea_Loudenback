@@ -1,0 +1,12 @@
+---
+title: "Posters"
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+---
+
+Conference Posters
+
+![Western Section American Society of Animal Science - presented at the 2021 annual meeting](WSASAS poster_FINAL.png){alt="Western Section American Society of Animal Science - presented at the 2021 annual meeting"}
+
+![American Dairy Science Association - presented at the 2023 annual meeting](ADSA Poster_Loudenback.png){alt="American Dairy Science Association - presented at the 2023 annual meeting"}
