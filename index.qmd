@@ -1,7 +1,5 @@
 ---
 title: "Andrea Loudenback"
-nav: 
-  order: 1
 image: DSC08235.jpg
 output:
   quarto::quarto_site:
@@ -9,7 +7,6 @@ output:
     css: styles.css
 about: 
   template: trestles
-  image-shape: rounded
   image-width: 100em
   links:
     - text: LinkedIn

@@ -1,11 +1,7 @@
 ---
 title: "Posters"
-nav: 
-  order: 3
 about: 
-  template: broadside
-  image-shape: rounded
-  image-width: 15em
+  template: jolla
 ---
 
 Conference Posters

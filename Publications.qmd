@@ -1,12 +1,9 @@
 ---
 title: "Publications"
-nav: 
-  order: 4
 image: website_cow.png
 about: 
-  template: broadside
-  image-shape: rounded
-  image-width: 15em
+  template: marquee
+  image-width: 100em
 ---
 
 Parsons, C. C., Hehn, M. T., Loudenback, A. J., Burke, H. K., Fox, A. L., Spratt, L. M., Brazile, M., Alarawi, R. & Zarestky, J. (2023). *Cultivating qualitative researchers: Lessons learned during a pandemic*. <https://doi.org/10.1177/16094069231157705>
