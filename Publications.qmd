@@ -1,6 +1,8 @@
 ---
 title: "Publications"
-image: DSC08235.jpg
+nav: 
+  order: 4
+image: website_cow.png
 about: 
   template: trestles
   image-shape: rounded

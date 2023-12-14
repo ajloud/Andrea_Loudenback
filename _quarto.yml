@@ -10,3 +10,18 @@ format:
 
 editor: visual
 
+quarto:
+  nav:
+    - text: Home
+      href: /index.html
+      order: 1
+    - text: Research
+      href: /research.html
+      order: 2
+    - text: Posters
+      href: /posters.html
+      order: 3
+    - text: Publication
+      href: /publications.html
+      order: 4
+
