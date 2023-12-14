@@ -2,11 +2,6 @@
 /* styles.css */
 
 /* Custom styles for the homepage */
-body {
-  font-family: 'Arial', sans-serif;
-  line-height: 1.6;
-}
-
 header {
   background-color: #f8f8f8;
   padding: 20px;
@@ -15,4 +10,22 @@ header {
 
 h1 {
   color: #333;
+}
+
+img {
+  border-radius: 10px; /* Rounded corners for the image */
+  max-width: 100%; /* Ensure images don't exceed their container width */
+}
+
+.about-section {
+  margin-top: 20px;
+}
+
+.links-section {
+  margin-top: 20px;
+}
+
+.links-section a {
+  display: block;
+  margin-bottom: 10px;
 }

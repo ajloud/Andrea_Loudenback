@@ -6,3 +6,9 @@ about:
   image-shape: rounded
   image-width: 15em
 ---
+
+Parsons, C. C., Hehn, M. T., Loudenback, A. J., Burke, H. K., Fox, A. L., Spratt, L. M., Brazile, M., Alarawi, R. & Zarestky, J. (2023). *Cultivating qualitative researchers: Lessons learned during a pandemic*. <https://doi.org/10.1177/16094069231157705>
+
+Loudenback, A.L. (2022). *Environmental assessment of northern Colorado dairy systems: whole-farm predictions for past, future, and beneficial management practices*. \[Master\'s thesis, Colorado State University\]. ProQuest Dissertations and Theses database. <https://mountainscholar.org/handle/10217/235658>
+
+Loudenback, A.L, et al. (2021). Environmental footprints of Colorado dairy systems: predictions using process-based farm system and climate models. In: Western Section of Animal Science Proceedings. October 2021, Fort Collins, CO. Abstract only.
