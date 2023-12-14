@@ -4,7 +4,7 @@ nav:
   order: 2
 image: website_IFSM.png 
 about: 
-  template: trestles
+  template: broadside
   image-shape: rounded
   image-width: 15em
 ---

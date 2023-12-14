@@ -3,7 +3,7 @@ title: "Posters"
 nav: 
   order: 3
 about: 
-  template: trestles
+  template: broadside
   image-shape: rounded
   image-width: 15em
 ---

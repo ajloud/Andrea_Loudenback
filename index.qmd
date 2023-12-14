@@ -10,7 +10,7 @@ output:
 about: 
   template: trestles
   image-shape: rounded
-  image-width: 15em
+  image-width: 100em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/konadog/
