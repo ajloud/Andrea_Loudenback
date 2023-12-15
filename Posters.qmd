@@ -4,7 +4,7 @@ about:
   template: jolla
 ---
 
-Conference Posters
+# Conference Posters
 
 ![Western Section American Society of Animal Science - presented at the 2021 annual meeting](WSASAS poster_FINAL.png){alt="Western Section American Society of Animal Science - presented at the 2021 annual meeting"}
 

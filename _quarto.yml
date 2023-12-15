@@ -24,3 +24,8 @@ website:
       - text: "Publications"
         file: Publications.qmd
 
+  search:
+    location: navbar
+    type: textbox
+
+

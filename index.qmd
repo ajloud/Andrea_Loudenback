@@ -1,13 +1,11 @@
 ---
 title: "Andrea Loudenback"
-image: DSC08235.jpg
 output:
   quarto::quarto_site:
     theme: default
     css: styles.css
 about: 
-  template: trestles
-  image-width: 30em
+  template: marquee
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/konadog/
@@ -23,7 +21,9 @@ about:
       href: file:///Users/andrealoudenback/Desktop/CV2023_October_Website.html
 ---
 
-<strong>About</strong>
+![](DSC08235.jpg){fig-align="center" width="597"}
+
+# About
 
 Growing up in South Dakota exposed me to food systems on many fronts. Our town was surrounded by farmers and ranchers, close to several Smithfield and JBS Processing Plants, and home to my family's hotel and convenince food co-packing business. I knew from a young age that I wanted to pursue a career in research and academia with a focus on agriculture and food production.
 
@@ -31,7 +31,7 @@ In high school, I began to pay more attention to where my food came from. Who wa
 
 I am currently pursuing my Ph.D. at Colorado State University (CSU) where I actively foster connections with local producers and engage in community outreach to promote sustainable food production and choices aligned with local food consumption. I have grown a deep rooted sense of gratitude for the experiences, opportunities, and people that have facilitated my research over the past four years, and am committed to supporting the evolution of Northern Colorado food systems for many years to come.
 
-<strong>Education</strong>
+# Education
 
 B.S. Animal Sciences and Marine Biology, University of Minnesota Twin Cities (2015)
 
