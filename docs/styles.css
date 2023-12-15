@@ -1,31 +1,32 @@
-/* css styles */
-/* styles.css */
-
-/* Custom styles for the homepage */
 header {
-  background-color: #f8f8f8;
+  background-color: #808000;
   padding: 20px;
   text-align: center;
 }
+
+body {
+  background-color: #D2B48C;
+  color: #333
+  text-align: center;
 
 h1 {
   color: #333;
 }
 
 img {
-  border-radius: 10px; /* Rounded corners for the image */
-  max-width: 100%; /* Ensure images don't exceed their container width */
+  border-radius: 10px;
+  max-width: 100%;
 }
 
-.about-section {
-  margin-top: 20px;
+.center-image {
+  text-align: center;
 }
 
-.links-section {
-  margin-top: 20px;
+.center-image img {
+  display: inline-block;
 }
 
-.links-section a {
-  display: block;
-  margin-bottom: 10px;
+body navbar {
+  background-color: #556B2F
+  color: #ffffff
 }

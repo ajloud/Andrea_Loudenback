@@ -1,9 +1,8 @@
 ---
 title: "Research"
-image: website_IFSM.png 
 about: 
   template: marquee
-  image-width: 100em
+  image-width: 30em
 ---
 
 My current research studies nutrient flows from dairy production systems starting at the animal level. I am trained as a mixed methods researcher with a keen interest in the intersection of quantitative and qualitative efforts as they pertain to the sustainability of our food and agricultural systems. To answer the questions of interest to me surrounding sustainability and nutrient management, I employ process-based modeling software, field experiments, and qualitative methods to quantify best management practices in an effort to reduce the environmental impacts from the dairy sector.
@@ -12,5 +11,4 @@ During my thesis, I focused on quantifying environmental impacts of Colorado dai
 
 Throughout my undergrad I had the opportunity to be involved in graduate student research in the Agronomy department at the University of Minneosta. I worked as a student lab technician on projects related to Kernza, cover cropping, and alternative crop production. Additionally, I had the opportunity to conduct an independent research project that use liquid chromatography mass spectrometry (LCSM) to quantify the presence of organic metabolites in variations of fireweed.
 
-Photo: The Integrated Farm Systems Model, USDA ARS 2023 \
-https://www.ars.usda.gov/northeast-area/up-pa/pswmru/docs/integrated-farm-system-model/
+[![The Integrated Farm Systems Model, USDA ARS 2023](website_IFSM.png){fig-align="center"}](https://www.ars.usda.gov/northeast-are/up-pa/pswmru/docs/integrated-farm-system-model/)
